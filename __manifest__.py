@@ -15,8 +15,8 @@
     ],
     'assets': {
         'web.assets_backend': [
-            'awesome_owl/static/src/awesome_owl.js',
-            'awesome_owl/static/src/awesome_owl.xml',
+            'awesome_owl/static/src/component.js',
+            'awesome_owl/static/src/component.xml',
         ],
     },
     'license': "AGPL-3",
